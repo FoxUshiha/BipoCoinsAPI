@@ -1,0 +1,16 @@
+{
+  "id": "1378457877085290628",
+  "username": "bipo",
+  "balance": 208.02,
+  "bank": 0,
+  "lastDaily": 1776635219330,
+  "loan": null,
+  "pickaxe": "wood",
+  "ores": {
+    "🟤 Bronze": 1
+  },
+  "coinCard": "2d6d0d8cc392",
+  "bipoCard": "e3ae36f78e1557de",
+  "bipoCardHash": "3abcaf22bb6075f0313f3d2ca3a575788839499d679ec010f7c036af26f812ea",
+  "pickaxeDurability": 9
+}
